@@ -23,7 +23,7 @@ public class Author implements Serializable {
     private String firstname;
     private String lastname;
     private static final long serialVersionUID = 1L;
-    private int age;
+    private int age =2;
 
     @OneToMany(mappedBy = "author", cascade = {PERSIST, REMOVE})
     private Set<Book> books;

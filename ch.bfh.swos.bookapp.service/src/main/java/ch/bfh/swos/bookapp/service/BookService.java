@@ -1,3 +1,6 @@
+/**
+ * THIS IS A CHANGE FOR THE FIRSTBRANCH (AUFGABE 4)
+ */
 package ch.bfh.swos.bookapp.service;
 
 import ch.bfh.swos.bookapp.service.dto.BookDTO;

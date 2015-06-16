@@ -2,6 +2,8 @@
  * THIS IS A CHANGE FOR THE FIRSTBRANCH (AUFGABE 4)
  * 
  * A 2nd change that fixes the issue
+ * 
+ * Fixes #1
  */
 package ch.bfh.swos.bookapp.service;
 

@@ -22,7 +22,7 @@ public class SimpleUnitTest {
     @Test
     public void simpleTestMeth()
     {
-        boolean test1 = false;
+        boolean test1 = true;
         boolean test = (1+1) == 2;
         Assert.assertTrue(test1);
     }

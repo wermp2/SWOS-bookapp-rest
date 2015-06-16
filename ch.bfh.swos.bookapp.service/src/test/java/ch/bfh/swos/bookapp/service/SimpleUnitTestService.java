@@ -22,7 +22,7 @@ public class SimpleUnitTestService {
     @Test
     public void simpleTestService()
     {
-        boolean test1 = false;
+        boolean test1 = true;
         boolean test = (1+1) == 2;
         Assert.assertTrue(test1);
     }

@@ -3,7 +3,6 @@ language: java
 script: 
 - mvn -DfailIfNoTests=false
 - mvn -Dtest=SimpleUnitTest test
-- mvn -Dtest=SimpleUnitTestService test
 
 # configure notifications (email, IRC, campfire etc)
 notifications:

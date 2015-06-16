@@ -1,0 +1,5 @@
+language: java
+
+# configure notifications (email, IRC, campfire etc)
+notifications:
+  email: "wermp2@bfh.ch"
